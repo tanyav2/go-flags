@@ -1,0 +1,1 @@
+`ROTATION_INTERVAL=78 ./go-flags`
